@@ -3,7 +3,7 @@ import static org.junit.Assert.*;
 
 public class demotest {
     @Test 
-    public test() {
-        assertEquals("7", seven());
+    public void test() {
+        assertEquals("7", demofile.seven());
     }
 }
